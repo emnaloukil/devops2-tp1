@@ -11,3 +11,5 @@
 - Liaison Jira ↔ GitHub (bonus) : réalisée
 
 ![Tableau Jira du sprint 1](tp1-jira.png)
+
+![Liaison Jira GitHub](liaison%20jira%20github.png)
